@@ -1,4 +1,4 @@
-### Hello World I'm Mohammed Imran Full Stack Developer / 👋
+### Hello World I'm Mohammed Imran / Full Stack Developer / 👋
 
 <!--
 **14imran/14imran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
