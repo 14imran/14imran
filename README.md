@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> Mohammed Imran  <Full Stack Developer/> </h2>
+<h2> Mohammed Imran <Developer /> </h2>
 </div>
 
 <div align="center">
@@ -26,7 +26,7 @@ Feel free to <a href="mailto:14.imran.mohammed@gmail.com"><b>connect</b></a> wit
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=14imran-17&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=14imran&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=14imran&theme=tokyonight">
 
 </p>
