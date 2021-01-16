@@ -1,13 +1,11 @@
-<div align="center">
-<h2> Hey  < 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> </h2>
-</div>
+
 <div align="center">
 <h2> Mohammed Imran  <Full Stack Developer/> </h2>
 </div>
 
 <div align="center">
  
-![Profile Visits](https://visitor-badge.laobi.icu/badge?page_id=mansoor-17.mansoor-17)
+![Profile Visits](https://visitor-badge.laobi.icu/badge?page_id=14imran.14imran)
 
 </div>
 
