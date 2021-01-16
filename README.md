@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> <Developer /> </h2>
+<h2> Mohammed Imran [{Developer}] </h2>
 </div>
 
 <div align="center">
